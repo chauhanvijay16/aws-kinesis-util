@@ -1,7 +1,7 @@
 const AWS = require('aws-sdk');
 AWS.config.update({ region: 'us-west-2' });
 AWS.config.apiVersions = { kinesis: '2013-12-02' };
-let meta_data = require('./template1');
+let meta_data = require('./template2');
 
 let obj_p = JSON.parse(JSON.stringify(meta_data));
 let obj_l = JSON.parse(JSON.stringify(meta_data));
