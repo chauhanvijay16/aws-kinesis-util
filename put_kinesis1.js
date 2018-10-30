@@ -32,12 +32,6 @@ obj_o.h.id = 'P8830919325|L613148883';
 obj_s.event.source = 's';
 obj_s.h.id = 'P8830919326|L613148883';
 
-obj_h.event.source = 'h';
-obj_h.h.id = 'P8830919327|L613148883';
-
-obj_hp.event.source = 'hp';
-obj_hp.h.id = 'P8830919328|L613148883';
-
 var params = {
   Records: [
     {

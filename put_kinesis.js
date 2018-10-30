@@ -37,7 +37,6 @@ for (let i = 0; i < events_no; i++) {
   obj_temp.event.source = getRandomSource();
   obj_temp.h.id = 'P' + prop_id_start + '|L613148883';
   prop_id_start++;
-
   params.Records.push({
     Data: new Buffer(JSON.stringify(obj_temp)),
     PartitionKey: i + ''
