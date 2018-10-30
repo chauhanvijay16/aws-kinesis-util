@@ -1,0 +1,23 @@
+{
+  "event": {
+    "global_tracking_id":
+      "DataSol.listing->rdc:PIMSR;job:PIMSR-L-a7b591f9-dd74-4145-8b7b-16fb6cbc909c;page:1;",
+    "source": "RESOLVER",
+    "sha256":
+      "ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad",
+    "summary": {
+      "p_id": "P8830918138",
+      "pl_id": "P8830919138",
+      "l_id": "P8830919138",
+      "s_id": "2343242",
+      "a_id": "sfdsrwrrwe",
+      "o_id": "2423srrasda",
+      "h_id": "rwerr4sdfr24",
+      "ph_id": "wrwer234",
+      "time_stamp": "2018-04-12T18:02:48Z"
+    }
+  },
+  "h": {
+    "id": "P8830919138|L613148883"
+  }
+}
